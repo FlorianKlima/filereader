@@ -1,4 +1,4 @@
-package main
+package datafile
 
 func main() {
 	amount := 6

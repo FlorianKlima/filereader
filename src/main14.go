@@ -1,5 +1,5 @@
 // A guessing game, learning how to seed random and loops
-package main
+package datafile
 
 import (
 	"bufio"

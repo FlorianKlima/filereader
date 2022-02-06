@@ -1,4 +1,4 @@
-package main
+package datafile
 
 func main() {
 	letters := [9]string{"a", "b", "c", "d", "e", "f", "g", "h", "i"}
