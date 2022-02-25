@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 // Fibonacci returns the n-th fibonacci number. An error is returned if the
-// fibonacci number cannot be represented as a uint64.
+// fibonacci number cannot be represented as an uint64.
 func Fibonacci(n uint) (uint64, error) {
 	if n <= 1 {
 		return uint64(n), nil
